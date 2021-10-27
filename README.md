@@ -10,7 +10,7 @@ In this assignment we compare Crypto clusters by utlizing two techniques:
 1.  Cluster cryptocurrencies with K-means using original data
 2.  Cluster cryptocurrencies with K-means using the PCA data 
 
-After performing the two clustering technqiques, we use visualization tools to compare the results from each. 
+After performing the two clustering techniques, we use visualization tools to compare the results from each. 
 
 The sections of this notebook are as follows: 
 
