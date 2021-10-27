@@ -37,7 +37,7 @@ This project leverages JupyterLab Version 3.0.14 in association with Anaconda di
 
 * [sklearn.decomposition](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) - Principal component analysis (PCA)
 
-* [sklearn.preporcessing](https://scikit-learn.org/stable/modules/preprocessing.html) - Standardization, or mean removal and variance scaling
+* [sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html) - Standardization, or mean removal and variance scaling
 
 ---
 
